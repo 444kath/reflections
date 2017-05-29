@@ -20,6 +20,9 @@ organized? How would branches help?
 	situation could be when you want to create a version that is used only for testing.
 
 How do the diagrams help you visualize the branch structure?
+	Diagrams help us visualize linear vs nonlinear commit history, understanding which commits are
+	reachable and not reachable at any given starting point, and how to tell if our
+	commits will be retained.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
