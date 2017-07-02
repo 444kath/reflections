@@ -9,3 +9,7 @@ Forks are a GitHub-specific feature that allows you to make a clone of somebody 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It lets you have a copy of the latest changes so that you have a chance to review them, without having to combine any commits right away. That way, you can leave your local commits intact before you decide whether to merge the remote branch and your branch together.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would use a combination of SVN and email / verbal communication. Using Git and GitHub would probably be easier because the version control and collaboration aspects are integrated in one platform instead of using two different platforms separately. GitHub's collaboration tools would probably contribute to more organized and structured collobration and development, allowing for an orderly request / feedback / response interaction.
+
